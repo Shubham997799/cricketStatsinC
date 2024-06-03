@@ -1,4 +1,4 @@
-//copy of sample1.c
+
 #include<stdio.h>
 #include<string.h>
 typedef struct player
